@@ -15,7 +15,7 @@ const Home = () => {
                 <h2>Frontend Developer / Computer Science Student / Competitive Programmer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
-            {/* <Logo /> */}
+            <Logo />
         </div>
     )
 }
