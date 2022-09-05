@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faHackerrank, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
+
 const Sidebar = () => (
     <div className='nav-bar'>
         <Link className='logo' to='/'>
