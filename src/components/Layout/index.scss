@@ -38,8 +38,10 @@
     animation-delay: 1s;
 }
 
-.about-page{
+.about-page, 
+.contact-page{
     .text-zone{
+        text-align: justify;
         position: absolute;
         left: 10%;
         top: 50%;
